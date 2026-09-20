@@ -153,6 +153,42 @@ Open your browser and navigate to `http://127.0.0.1:8000/`.
 
 ---
 
+# All-in-One Digital Campus Platform
+
+## 📌 Project Overview
+
+A web-based digital campus platform designed to provide students with academic management and personalized campus services.
+
+## 🚀 Features
+
+- Student academic management
+- Study planning
+- Assignments
+- Attendance management
+- Learning resources
+- Placement support
+- AI-powered features using Google Gemini
+
+## 🛠️ Tech Stack
+
+- Backend: Django
+- AI: Google Gemini
+- Frontend: HTML, CSS, JavaScript
+- Database: SQLite / PostgreSQL
+
+## 👨‍💻 My Contribution
+
+### Sanjeev Kumar — Backend & AI/Gemini
+
+- Developed backend functionality using Django.
+- Integrated Google Gemini AI for AI-powered features.
+- Worked on backend logic, APIs, and AI integration.
+- Contributed to the development and integration of core platform features.
+
+## 🌐 Live Demo
+
+https://digital-campus-project-chi.vercel.app/
+
 ## ☁️ Deployment on Vercel
 
 This project is pre-configured for seamless serverless deployment on **Vercel**.
