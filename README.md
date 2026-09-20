@@ -176,7 +176,7 @@ A web-based digital campus platform designed to provide students with academic m
 - Frontend: HTML, CSS, JavaScript
 - Database: SQLite / PostgreSQL
 
-## 👨‍💻 My Contribution
+### 👨‍💻 My Contribution
 
 ### Sanjeev Kumar — Backend & AI/Gemini
 
